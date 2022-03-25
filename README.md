@@ -5,8 +5,8 @@ This protcol intendes to score and rank interactions based on a score which rang
 
 ### Protocol steps.
 The protocol consist of 5 (yet to be optimized).
-**Step 1**: filter genes expressed in less than `min_perc_cell` of cells in a given cluster.
-**Step 2**: calculate the gene's mean expression per cluster.
-**Step 3**: scale the gene's mean expression across clusters.
-**Step 4**: filter genes expressed in less than `min_perc_cell` of cells in a given cluster.
-**Step 5**: calculate the ligand-receptor score (0-100) and cry.
+**Step 1**: filter genes expressed in less than `min_perc_cell` of cells in a given cluster. \
+**Step 2**: calculate the gene's mean expression per cluster. \
+**Step 3**: scale the gene's mean expression across clusters. \
+**Step 4**: filter genes expressed in less than `min_perc_cell of cells in a given cluster. \
+**Step 5**: calculate the ligand-receptor score (0-100) and cry. \
